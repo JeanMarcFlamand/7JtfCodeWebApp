@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: '7JtfCode'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D874546BFFC147E7A9CE9DF2337314C5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_13637E4AF03B4AAB85ADDDA1610B6A78 }}
           package: .
